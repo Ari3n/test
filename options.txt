@@ -18,7 +18,7 @@ clouds:true
 resourcePacks:[]
 lastServer:
 lang:en_US
-chatVisibility:0
+chatVisibility:0ff
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
