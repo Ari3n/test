@@ -1,0 +1,76 @@
+{
+  "profiles": {
+    "Kerdelor": {
+      "name": "Kerdelor",
+      "lastVersionId": "1.7.10-Forge10.13.4.1448-1.7.10"
+    },
+    "Forge": {
+      "name": "Forge",
+      "lastVersionId": "1.7.10-Forge10.13.4.1448-1.7.10"
+    }
+  },
+  "selectedProfile": "Kerdelor",
+  "clientToken": "25cea635-8e1a-4469-8316-071fb5b13385",
+  "authenticationDatabase": {
+    "df92827a84244ded809acb7d93886e90": {
+      "displayName": "Kerdelor",
+      "accessToken": "dbd7feb1d8ad4188ab3d34b018b001ab",
+      "userid": "23621170",
+      "uuid": "df92827a-8424-4ded-809a-cb7d93886e90",
+      "username": "Kerdelor"
+    },
+    "MuGat": {
+      "displayName": "MuGat",
+      "accessToken": "null",
+      "userid": "MuGat",
+      "uuid": "7d42778c-514a-37ed-b5cc-6b4bf1c490a0",
+      "username": "MuGat"
+    },
+    "76f955e1db2139c2ae46eba906115a97": {
+      "displayName": "Barry Allen",
+      "accessToken": "null",
+      "userid": "Barry Allen",
+      "uuid": "76f955e1-db21-39c2-ae46-eba906115a97",
+      "username": "Barry Allen"
+    },
+    "e5aaaa566e69372aa188a7421015ea98": {
+      "displayName": "Arien",
+      "accessToken": "null",
+      "userid": "Arien",
+      "uuid": "e5aaaa56-6e69-372a-a188-a7421015ea98",
+      "username": "Arien"
+    },
+    "d2dadb2fa9763e3599578b5f20a76920": {
+      "displayName": "aRIEN",
+      "accessToken": "null",
+      "userid": "aRIEN",
+      "uuid": "d2dadb2f-a976-3e35-9957-8b5f20a76920",
+      "username": "aRIEN"
+    },
+    "Arien": {
+      "displayName": "Arien",
+      "userid": "Arien",
+      "uuid": "e5aaaa56-6e69-372a-a188-a7421015ea98",
+      "username": "Arien"
+    },
+    "Barry Allen": {
+      "displayName": "Barry Allen",
+      "accessToken": "null",
+      "userid": "Barry Allen",
+      "uuid": "76f955e1-db21-39c2-ae46-eba906115a97",
+      "username": "Barry Allen"
+    },
+    "7d42778c514a37edb5cc6b4bf1c490a0": {
+      "displayName": "MuGat",
+      "accessToken": "null",
+      "userid": "MuGat",
+      "uuid": "7d42778c-514a-37ed-b5cc-6b4bf1c490a0",
+      "username": "MuGat"
+    }
+  },
+  "selectedUser": "Arien",
+  "launcherVersion": {
+    "name": "1.5",
+    "format": 16
+  }
+}
